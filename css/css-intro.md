@@ -1,4 +1,4 @@
-# Lesson 1 — 🎨 CSS Introduction & Basics
+# 🎨 CSS Introduction & Basics
 
 **Path 2: CSS**
 

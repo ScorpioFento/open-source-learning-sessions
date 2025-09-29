@@ -120,3 +120,5 @@ In this lesson, we explore how **semantic HTML improves SEO** (Search Engine Opt
   <p>© HTML & SEO Practice Page</p>
 </footer>
 ```
+
+🏗️ Code Example: Applying Selectors

@@ -1,4 +1,4 @@
-# Lesson 1 — HTML Basics: Intro & Basic Document Structure  
+# HTML Basics: Intro & Basic Document Structure  
 
 **Path 1: HTML**  
 
