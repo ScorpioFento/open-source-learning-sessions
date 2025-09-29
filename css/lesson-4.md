@@ -1,4 +1,4 @@
-# Lesson 5 — 📱 Responsive Layouts
+# Lesson 4 — 📱 Responsive Layouts
 
 **Path 2: CSS**  
 
