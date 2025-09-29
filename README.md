@@ -21,7 +21,7 @@ That’s why this repo is built as a <b>step-by-step journey</b>: starting from 
 Each section contains a <b>lesson</b> (explained in simple words) + <b>examples</b> you can run right away:  
 
 <ul>
-  <li>📄 <b>HTML Basics</b> → structure, forms, images, tables</li>
+  <li>📄 <b>HTML Basics</b> → structure, forms, images, tables, sectioning, semantic html, SEO, Goodbye Practice lesson</li>
   <li>🎨 <b>CSS Basics</b> → selectors, flexbox, grid, responsive layouts</li>
   <li>⚡ <b>JavaScript Basics</b> → variables, loops, DOM, events</li>
   <li>⚛️ <b>React.js</b> → components, props, state, event handling</li>
