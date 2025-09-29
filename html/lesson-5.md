@@ -17,16 +17,16 @@ The `<div>` tag is one of the most commonly used HTML elements. It serves as a *
 ## 📦 Example: Basic `<div>` Usage  
 
 ```html
-<div class="container">
-  <div class="header">
+<div>
+  <div>
     <h1>My Website</h1>
   </div>
 
-  <div class="main-content">
+  <div>
     <p>Welcome to the content area of this page.</p>
   </div>
 
-  <div class="footer">
+  <div>
     <p>© My Website</p>
   </div>
 </div>
